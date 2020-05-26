@@ -1,0 +1,27 @@
+_repo: Primrose-Hill-Park-Regent-s-Park-and-Hampstead-Heath_62152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smee, William Ray
+    birthdate: 1816
+    deathdate: 1877
+    gutenberg_agent_id: '51797'
+    url: http://www.gutenberg.org/2009/agents/51797
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hampstead Heath (London, England) -- History'
+- !lcsh 'Parks -- England -- London -- History'
+- !lcsh 'Regent''s Park (London, England) -- History'
+- !lcsh 'Smee, William Ray, 1816-1877 -- Correspondence'
+- !lcc 'DA'
+- GITenberg
+title: Primrose Hill Park, Regent's Park, and Hampstead Heath
+url: http://www.gutenberg.org/ebooks/62152
